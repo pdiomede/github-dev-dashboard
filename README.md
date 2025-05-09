@@ -1,6 +1,6 @@
 # GitHub Dev Dashboard
 
-This project generates dynamic HTML dashboards showcasing GitHub repositories related to [The Graph](https://thegraph.com/) ecosystem (Subgraphs and Substreams). 
+This project generates dynamic HTML dashboards showcasing GitHub repositories related to [The Graph](https://thegraph.com/) ecosystem.
 It includes separate dashboards for **Subgraphs** and **Substreams**, featuring stats like stars, owners, and last update times.
 
 ## 🔧 Features
