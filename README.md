@@ -22,9 +22,9 @@ This project generates dynamic HTML dashboards showcasing GitHub repositories re
 📦 archive/
 - 📜 index_05082025.html     # Archived previous dashboard
 
-📜 generate_dashboards_dynamic.py
-📜 .gitignore
-📜 README.md
+- 📜 generate_dashboards_dynamic.py
+- 📜 .gitignore
+- 📜 README.md
 
 ## 🚀 How to Use
 
