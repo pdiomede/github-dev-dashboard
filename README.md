@@ -4,7 +4,7 @@ This project generates dynamic HTML dashboards showcasing GitHub repositories re
 It includes separate dashboards for **Subgraphs** and **Substreams**, featuring stats like stars, owners, and last update times.
 
 **Live Dashboard:**  
-🔗 [https://indexerscore.com](https://graphtools.pro/github)
+🔗 [[https://indexerscore.com](https://graphtools.pro/github)](https://graphtools.pro/github)
 
 🧪 This dashboard is part of [**Graph Tools Pro**](https://graphtools.pro), a community-driven initiative to provide useful, independent analytics tools for The Graph ecosystem.
 
