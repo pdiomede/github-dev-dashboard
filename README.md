@@ -41,8 +41,6 @@ It includes separate dashboards for **Subgraphs** and **Substreams**, featuring 
 - Dynamic filtering & search for repositories
 - Automatic .env exclusion via .gitignore
 
-## 📊 Technologies
-- Python (Pandas, JSON, datetime)
-- HTML, Bootstrap 5
-- jQuery & DataTables.js
-- Plausible Analytics (privacy-friendly)
+## 📊 Powered By
+- 🧩 Python 3.x, HTML5 + CSS 
+- ⚙️ GitHub API, jQuery & DataTables.js
