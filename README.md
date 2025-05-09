@@ -12,15 +12,15 @@ This project generates dynamic HTML dashboards showcasing GitHub repositories re
 
 ## 📁 File Structure
 📦 reports/
-┣ 📜 index.html              # Subgraphs dashboard
-┣ 📜 index2.html             # Substreams dashboard
-┣ 📜 subgraph_metadata.json
-┣ 📜 substreams_metadata.json
-┣ 📜 subgraph_repositories_filtered.csv
-┣ 📜 substreams_repositories_filtered.csv
+- 📜 index.html              # Subgraphs dashboard
+- 📜 index2.html             # Substreams dashboard
+- 📜 subgraph_metadata.json
+- 📜 substreams_metadata.json
+- 📜 subgraph_repositories_filtered.csv
+- 📜 substreams_repositories_filtered.csv
 
 📦 archive/
-┣ 📜 index_05082025.html     # Archived previous dashboard
+- 📜 index_05082025.html     # Archived previous dashboard
 
 📜 generate_dashboards_dynamic.py
 📜 .gitignore
@@ -33,15 +33,15 @@ This project generates dynamic HTML dashboards showcasing GitHub repositories re
 
 python3 generate_dashboards_dynamic.py
 
-3.	Find the generated dashboards in the reports/ folder. Older dashboards are archived in archive/
+3. Find the generated dashboards in the reports/ folder. Older dashboards are archived in archive/
 
 ## 🛡️ GitHub Integration
-	•	Avatar fetching from GitHub CDN
-	•	Dynamic filtering & search for repositories
-	•	Automatic .env exclusion via .gitignore
+- Avatar fetching from GitHub CDN
+- Dynamic filtering & search for repositories
+- Automatic .env exclusion via .gitignore
 
 ## 📊 Technologies
-	•	Python (Pandas, JSON, datetime)
-	•	HTML, Bootstrap 5
-	•	jQuery & DataTables.js
-	•	Plausible Analytics (privacy-friendly)
+- Python (Pandas, JSON, datetime)
+- HTML, Bootstrap 5
+- jQuery & DataTables.js
+- Plausible Analytics (privacy-friendly)
