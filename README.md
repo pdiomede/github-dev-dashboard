@@ -1,6 +1,7 @@
 # GitHub Dev Dashboard
 
-This project generates dynamic HTML dashboards showcasing GitHub repositories related to [The Graph](https://thegraph.com/) ecosystem. It includes separate dashboards for **Subgraphs** and **Substreams**, featuring stats like stars, owners, and last update times.
+This project generates dynamic HTML dashboards showcasing GitHub repositories related to [The Graph](https://thegraph.com/) ecosystem (Subgraphs and Substreams). 
+It includes separate dashboards for **Subgraphs** and **Substreams**, featuring stats like stars, owners, and last update times.
 
 ## 🔧 Features
 
@@ -31,9 +32,9 @@ This project generates dynamic HTML dashboards showcasing GitHub repositories re
 1. Place the updated CSV and metadata files in the `reports/` folder.
 2. Run the script:
 
-python3 generate_dashboards_dynamic.py
+`python3 generate_dashboards_dynamic.py`
 
-3. Find the generated dashboards in the reports/ folder. Older dashboards are archived in archive/
+3. Find the generated dashboards in the `reports/` folder. Older dashboards are archived in `archive/`
 
 ## 🛡️ GitHub Integration
 - Avatar fetching from GitHub CDN
