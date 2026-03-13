@@ -1,18 +1,14 @@
 [
   {
-    "owner":"mercuricchloride",
-    "repo_count":6
-  },
-  {
-    "owner":"johncorrigan1",
-    "repo_count":6
+    "owner":"enoldev",
+    "repo_count":5
   },
   {
     "owner":"maoueh",
     "repo_count":5
   },
   {
-    "owner":"dirt-nasty",
+    "owner":"johncorrigan1",
     "repo_count":5
   },
   {
@@ -20,23 +16,27 @@
     "repo_count":5
   },
   {
-    "owner":"graph-buildersdao",
+    "owner":"nathan-websculpt",
     "repo_count":4
   },
   {
-    "owner":"saurabhburade",
+    "owner":"mercuricchloride",
+    "repo_count":4
+  },
+  {
+    "owner":"paulieb14",
     "repo_count":3
   },
   {
-    "owner":"0xpcut",
+    "owner":"teller-protocol",
+    "repo_count":3
+  },
+  {
+    "owner":"fren-fi",
     "repo_count":3
   },
   {
     "owner":"derzwerggimli",
-    "repo_count":3
-  },
-  {
-    "owner":"matstyler",
     "repo_count":3
   }
 ]
